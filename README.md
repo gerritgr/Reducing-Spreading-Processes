@@ -1,7 +1,6 @@
 # Reducing Spreading Processes on Networks to Markov Population Models
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://travis-ci.org/gerritgr/MC-Epidemic.svg?branch=master)](https://travis-ci.org/gerritgr/MC-Epidemic)
-
+[![Build Status](https://travis-ci.org/gerritgr/Reducing-Spreading-Processes.svg?branch=master)](https://travis-ci.org/gerritgr/Reducing-Spreading-Processes)
 ## Overview
 This is the official implementation to reproduce evaluation results in
 [Reducing Spreading Processes on Networks to Markov Population Models](https://www.researchgate.net/publication/332607298_Reducing_Spreading_Processes_on_Networks_to_Markov_Population_Models).
